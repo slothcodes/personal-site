@@ -1,0 +1,14 @@
+/* body {
+    /* background-color: red;
+ */
+.navi ul {
+    display: flex;
+    
+    list-style-type: none;
+    color: rebeccapurple;
+    
+}
+
+.navi li {
+    margin: 0 2rem 0 2rem;
+}
